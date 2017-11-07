@@ -1,1 +1,6 @@
-1,'FE','Fort Erie/Crystal Beach/Fort Erie','8EAA98'
+10,'EAST-Out','Fort Erie (East Outbound)','0070C0'
+11,'EAST-In','Fort Erie (East Inbound)','0070C0'
+20,'WEST-Out','Ridgeway Crystal Beach (West Outbound)','FF9933'
+21,'WEST-In','Ridgeway Crystal Beach (West Inbound)','FF9933'
+30,'NRTH-Out','Stevensville (North Outbound)','FF0000'
+31,'NRTH-In','Stevensville (North Inbound)','FF0000'
