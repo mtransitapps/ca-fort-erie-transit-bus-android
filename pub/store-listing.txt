@@ -2,15 +2,16 @@ Title: Fort Erie Transit Bus - MonTr…
 ----------
 Short description:
 Fort Erie Transit Bus for MonTransit.
-Schedule…
+Schedule. News.
 ----------
 What's new in this version?:
 Schedule from September 1, 2017 to September 29, 2018.
+News from www.fetransit.ca
 ----------
 Full description:
 This app adds Fort Erie Transit buses information to MonTransit.
 
-This app provides the buses schedule.
+This app provides the buses schedule as well as the latest news from www.fetransit.ca.
 
 Fort Erie Transit buses serve the Town of Fort Erie in Ontario, Canada.
 
@@ -27,6 +28,9 @@ This application is free and open-source:
 https://github.com/mtransitapps/ca-fort-erie-transit-bus-android
 
 This app is not related with Fort Erie Transit and the Region of Niagara.
+
+Permissions:
+- Other: required to read news from www.fetransit.ca.
 ----------
 Application type: Applications
 ----------
