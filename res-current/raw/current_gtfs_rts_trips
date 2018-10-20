@@ -1,6 +1,3 @@
-1001,0,'East Outbound',10
-1100,0,'East Inbound',11
-2001,0,'West Outbound',20
-2100,0,'West Inbound',21
-3001,0,'North Outbound',30
-3100,0,'North Inbound',31
+75000,0,'EAST',750
+76000,0,'WEST',760
+77000,0,'NRTH',770
