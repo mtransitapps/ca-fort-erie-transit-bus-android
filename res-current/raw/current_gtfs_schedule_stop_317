@@ -2,3 +2,7 @@
 'FEF18Bus-001-Weekdays',76000,72500,,''
 'FEF18Bus-002-Saturdays',76000,82500,,''
 'FEF18Bus-002-Weekdays',76000,62500,,'',20000,,''
+'FEW19Bus-001-Saturdays',76000,72500,,''
+'FEW19Bus-001-Weekdays',76000,72500,,''
+'FEW19Bus-002-Saturdays',76000,82500,,''
+'FEW19Bus-002-Weekdays',76000,62500,,'',20000,,''
