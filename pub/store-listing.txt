@@ -5,7 +5,7 @@ Fort Erie Transit Bus for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from August 30, 2017 to December 31, 2019.
+Schedule from August 29, 2017 to December 31, 2019.
 News from www.fetransit.ca
 ----------
 Full description:
