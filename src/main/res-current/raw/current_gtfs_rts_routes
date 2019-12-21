@@ -1,3 +1,4 @@
-750,'EAST','Fort Erie East Route','0070C0'
-760,'WEST','Fort Erie West Route','FF9933'
-770,'NRTH','Fort Erie North Route','FF0000'
+750,'EAST BLUE','East Blue Line','0404b4'
+751,'EAST GREEN','East Green Line','1a822f'
+760,'WEST YELLOW','West Yellow Line','facc2e'
+770,'NORTH RED','North Red Line','FF0000'
